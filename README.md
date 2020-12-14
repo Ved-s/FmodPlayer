@@ -1,1 +1,1 @@
-FmodPlayer is a siple player for fmod music banks
+FmodPlayer is a simple player for fmod music banks
